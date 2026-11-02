@@ -1,5 +1,5 @@
 # Lista de Tarefas
-
+<img width="1096" height="803" alt="Lista-De-Tarefa" src="https://github.com/user-attachments/assets/fa156ec9-1c96-45ef-82ca-48d8396df48b" />
 Projeto do Desafio 3 da Imersão da Alura com o Google. É uma lista de tarefas simples feita com HTML, CSS e JavaScript, criada com a ajuda do Google Antigravity.
 
 ## O que ela faz
